@@ -416,15 +416,10 @@ strong { font-weight: 700; color: var(--ink); }
   border-color: var(--gold);
 }
 .price-card--featured {
-  background: var(--green);
-  color: var(--white);
-  border: none;
+  background: var(--white);
+  color: var(--ink);
+  border: 1px solid rgba(31, 77, 58, 0.1);
 }
-.price-card--featured h3 { color: var(--white); }
-.price-card--featured .price strong { color: var(--white); }
-.price-card--featured .price { color: rgba(255,255,255,0.9); }
-.price-card--featured p { color: rgba(255, 255, 255, 0.85); }
-.price-card--featured .price-card__hint { color: rgba(255, 255, 255, 0.6); }
 
 .price-card h3 { margin-bottom: 16px; font-size: 1.2rem; color: var(--green); }
 .price {
