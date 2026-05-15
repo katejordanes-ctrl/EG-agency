@@ -420,7 +420,7 @@ strong { font-weight: 700; color: var(--ink); }
   color: var(--white);
   border: none;
 }
-.price-card--featured h3 { color: var(--gold); }
+.price-card--featured h3 { color: var(--white); }
 .price-card--featured .price strong { color: var(--white); }
 .price-card--featured .price { color: rgba(255,255,255,0.9); }
 .price-card--featured p { color: rgba(255, 255, 255, 0.85); }
